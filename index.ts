@@ -1,1 +1,3 @@
-console.log("Works!")
+import print from './print'
+
+print("Works!")
